@@ -1,0 +1,54 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	vertical-align: baseline;
+}
+
+body {
+  font-family: 'Old Standard TT', serif;
+  background-color: #fafafa;
+  min-height: 100%;
+  color: #222;
+  min-width: 350px;
+  font-size: 14px;
+  display: block;
+}
+
+
+
+#menu {
+	height: 80px;
+	line-height: 80px;
+	padding: 0;
+	text-align: center;
+	width: 100%;
+}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+	width: 100%;
+	max-width: 800px;
+}
+
+#menu ul li {
+	float: left;
+	width: 33.3%;
+	font-size: 12px;
+	letter-spacing: 1px;
+}
+
+#menu ul li a {
+	color: #222;
+	text-decoration: none;
+}
+
+#wrapper {
+	padding: 0 20px 250px;
+	margin: 0 auto;
+	min-height: 100%;
+}
+
+
